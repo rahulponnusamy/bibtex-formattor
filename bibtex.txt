@@ -1,0 +1,9 @@
+@inproceedings{reference_name,
+    title = {'Overview of Shared Task on Caste/Immigration Hate Speech Detection'},
+    author = {'Ponnusamy, Rahul and Chakravarthi, Bharathi Raja and Kumaresan, Prasanna Kumar and Rajiakodi, Saranya and Thangasamy, Sathiyaraj and Rajkumar, Charmathi'},
+    booktitle = {Proceedings of the Fourth Workshop on Language Technology for Equality, Diversity and Inclusion},
+    month = {March},
+    year = {2024},
+    address = {Malta},
+    publisher = {European Chapter of the Association for Computational Linguistics}
+    }
